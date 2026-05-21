@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 148" role="img" aria-labelledby="title desc">
+  <title id="title">Denis Carvalho Advocacia</title>
+  <desc id="desc">Logomarca institucional Denis Carvalho Advocacia</desc>
+  <rect width="620" height="148" fill="none"/>
+  <g transform="translate(14 14)">
+    <rect x="0" y="0" width="120" height="120" rx="4" fill="#0A2342"/>
+    <rect x="9" y="9" width="102" height="102" rx="2" fill="none" stroke="#C9A227" stroke-width="3"/>
+    <path d="M35 74V35h25c25 0 39 15 39 39S85 113 60 113H35V90h24c10 0 16-6 16-16s-6-16-16-16H58v16H35Z" fill="#C9A227"/>
+    <path d="M62 35c-17 0-31 8-39 22l18 10c4-7 11-10 21-10 9 0 16 4 21 11l19-10C93 43 79 35 62 35Z" fill="#fff" opacity=".92"/>
+  </g>
+  <g transform="translate(160 42)">
+    <text x="0" y="36" fill="#0A2342" font-family="Playfair Display, Georgia, serif" font-size="39" font-weight="700" letter-spacing="0">Denis Carvalho</text>
+    <path d="M2 55h330" stroke="#C9A227" stroke-width="2.5"/>
+    <text x="0" y="86" fill="#0A2342" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="5">ADVOCACIA</text>
+  </g>
+</svg>
