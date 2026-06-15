@@ -873,3 +873,31 @@ address span {
     display: none;
   }
 }
+
+
+.portais-links {
+    margin-top: 30px;
+}
+
+.portais-titulo {
+    margin-bottom: 14px;
+    padding-left: 12px;
+    border-left: 4px solid #c9a227;
+    color: #c9a227;
+    font-size: 0.95rem;
+    font-weight: 800;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+.portais-links a {
+    display: block;
+    margin-bottom: 8px;
+    color: #ffffff;
+    font-weight: 600;
+    transition: color 0.3s ease;
+}
+
+.portais-links a:hover {
+    color: #c9a227;
+}
